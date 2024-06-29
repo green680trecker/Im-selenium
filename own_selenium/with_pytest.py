@@ -27,5 +27,3 @@ def test_insider(driver):
         sleep(2)
         driver.close()
 
-
-
